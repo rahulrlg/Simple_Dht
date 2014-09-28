@@ -1,5 +1,5 @@
-SimpleDHT
+SimpleDHT : 
 =========
 
 
-Distributed Hash Table which ensures availability and consistency among data. 
+Distributed Hash Table followed chord protocol which ensures availability and consistency among data. 
